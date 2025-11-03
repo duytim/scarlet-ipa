@@ -1,24 +1,17 @@
 {
   "META": {
     "repoName": "DuyNq Repo",
-    "repoIcon": "https://raw.githubusercontent.com/duytim/scarlet-ipa/main/favicon.png"
+    "repoIcon": "https://raw.githubusercontent.com/duytim/scarlet-ipa/refs/heads/main/favicon.png"
   },
   "Movie": [
     {
       "name": "RoPhim",
       "version": "1.0.5",
-      "down": "https://github.com/duytim/scarlet-ipa/releases/download/v1.0.5/RoPhim_1.0.5.ipa",
-      "icon": "https://raw.githubusercontent.com/duytim/scarlet-ipa/main/RoPhim.app/iconrophim.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/duytim/scarlet-ipa/main/RoPhim.app/02.png",
-        "https://raw.githubusercontent.com/duytim/scarlet-ipa/main/RoPhim.app/03.png",
-        "https://raw.githubusercontent.com/duytim/scarlet-ipa/main/RoPhim.app/04.png",
-        "https://raw.githubusercontent.com/duytim/scarlet-ipa/main/RoPhim.app/05.png"
-      ],
+      "down": "https://ipogo.app/download/ipogo-3.8.6.ipa",
       "category": "Phim",
-      "description": "RoPhim – Phim hay cả rổ - Trang xem phim online chất lượng cao miễn phí Vietsub, thuyết minh, lồng tiếng full HD. Kho phim mới khổng lồ, phim chiếu rạp, phim bộ, phim lẻ từ nhiều quốc gia như Việt Nam, Hàn Quốc, Trung Quốc, Thái Lan, Nhật Bản, Âu Mỹ… đa dạng thể loại. Khám phá nền tảng phim trực tuyến hay nhất 2024 chất lượng ",
-      "bundleID": "co.roteam.roteamios",
-      "appstore": "co.roteam.roteamios"
+      "description": "Đây là file IPA RoPhim",
+      "bundleID": "com.nianticlabs.pokemongo",
+      "appstore": "com.nianticlabs.pokemongo"
     }
-  ]
+  ],
 }
